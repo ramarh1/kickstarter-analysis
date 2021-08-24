@@ -17,4 +17,4 @@ One of the challenges that I encountered was not being able to figure how to gro
 
 -Is the data generalizable? If we are analyzing a sample people, it could not be generalizable to the population and could very well be biased. Also, we do not know if this dataset comes from a credible source, which may also influence the study's credibility and increase bias. 
 
--We could have a table or graph that studies which fundraiser categories were the most successful and how much money for the campaigns was funded in different countries, such as in the US, GB, MX, and etc. 
+-We could have a table or graph that studies which fundraiser categories were the least successful and how much the fundraiser goals were in different countries, such as in the US, GB, MX, and etc. 
