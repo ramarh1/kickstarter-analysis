@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 ## Overview of Project
 ### Purpose
-The purpose of this analysis is to help Louis see how successful various theater campaigns were in relation to their launch dates and fundraising goals in order to decide when to start her first fundraising campaign, Fever, and how much she set her fundraising goals to. 
+The purpose of this analysis is to help Louise gather important research on how successful various theater campaigns were in relation to their launch dates and fundraising goals in order to decide when to start her first fundraising campaign, *Fever*, and how much she set her fundraising goals to. 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Goals
 One of the analyses performed examines the relationship between the percentage of outcomes: successful, failed, and canceled, compared to the goals, which ranged between less than $1000 to greater than $50,000. Furthermore, the other analysis examined the relationship between the percentage of outcomes: successful, failed, or canceled, compared to the campaigns' launch dates, which were sorted by the month of the launch date.
