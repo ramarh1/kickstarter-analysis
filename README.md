@@ -15,10 +15,10 @@ One of the challenges that I encountered was not being able to figure how to gro
 According to the graph, we can see that May is the most successful month to launch a fundraiser. Also, June, July, and August have roughly the same amount of failed campaigns. Lastly. there weren't many canceled fundraiser campaigns overall. 
 
 - What can you conclude about the Outcomes based on Goals?
-Looking the Outcomes based on Goals, we can observe that roughly 100% of launched campaigns with a goal between $45,000 and $49,999 failed. Additionally, for the same goal range, the percentage of successful campaigns were 0. On the other hand, those that were less than $1000 were the most successful campaigns, reaching around 80%. It fits to mention that the percentage successful and the percentage failed have an inverse relationship. 
+- Looking the Outcomes based on Goals, we can observe that roughly 100% of launched campaigns with a goal between $45,000 and $49,999 failed. Additionally, for the same goal range, the percentage of successful campaigns were 0. On the other hand, those that were less than $1000 were the most successful campaigns, reaching around 80%. It fits to mention that the percentage successful and the percentage failed have an inverse relationship. 
 
 - What are some limitations of this dataset?
-Is the data generalizable? If we are analyzing a sample people, it could not be generalizable to the population and could very well be biased. Also, we do not know if this dataset comes from a credible source, which may also influence the study's credibility and increase bias. 
+- Is the data generalizable? If we are analyzing a sample people, it could not be generalizable to the population and could very well be biased. Also, we do not know if this dataset comes from a credible source, which may also influence the study's credibility and increase bias. 
 
 - What are some other possible tables and/or graphs that we could create?
-We could have a table or graph that studies which fundraiser categories were the most successful and how much percentage was funded in different countries, such as the US, GB, MX, and etc. 
+- We could have a table or graph that studies which fundraiser categories were the most successful and how much percentage was funded in different countries, such as the US, GB, MX, and etc. 
